@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Marwane Adlani
-    tagline: Computer Science Student
+    name: Marwane Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: marwane@udel.edu
-    phone: 302 264 0189
+    email: hello@webjeda.com
+    phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
-    linkedin: marwaneadlani
-    github: madlani
+    linkedin: alandoe
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,11 +28,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Arabic
-        level: Native
+      - idiom: French
+        level: Professional
 
       - idiom: Spanish
-        level: Conversational
+        level: Professional
 
     interests:
       - item: Climbing
@@ -56,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: BS in Computer Science
-      university: University of Delaware
-      time: 2017 - 2021
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,7 +69,18 @@ education:
           - Bullet point
           - Bullet point
 
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -92,6 +103,19 @@ experiences:
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
